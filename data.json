@@ -1,0 +1,612 @@
+
+
+{
+  "Category" : [
+  {
+    "id": 1,
+    "title": "/ArtsandMusic",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 2,
+    "title": "/Biography",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 3,
+    "title": "/Business",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 4,
+    "title": "/Comics",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 5,
+    "title": "/Cooking",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+ {
+    "id": 6,
+    "title": "/Entertainment",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 7,
+    "title": "/HealthandFitness",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+ {
+    "id": 8,
+    "title": "/Horror",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 9,
+    "title": "/History",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 10,
+    "title": "/Kids",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 11,
+    "title": "/Medical",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  },
+  {
+    "id": 12,
+    "title": "/Sports",
+    "subtitles": ["name1", "name2", "name3", "name4"]
+  }
+],
+  "ArtsandMusic" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/61IjNoujriL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Nineteen Eighty-Four",
+      "author": "Bimal Jalal",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71qQzwQkXYL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Ruskin Bond",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/718tu9IkvQL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Wuthering Heights",
+      "author": "Vinit Karnik",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/515cWd+EyEL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Preeti Shenoy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/713SwCOi12L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Things Fall Apart",
+      "author": "VP Venkaiah Naidu",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Biography" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/51pxqliTxiL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/41hER+PMoOL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Animal Farm",
+      "author": "Charles Dickens",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71nFA6EnMnL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "One Hundred Years of Solitude",
+      "author": "George Orwell",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71QmdHAqLWL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Alice’s Adventure in Wonderland",
+      "author": "George Eliot",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71bbjI3zkWL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Nineteen Eighty-four",
+      "author": "William Shakespeare",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Business" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/81gAJReOwSL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Invisible Man",
+      "author": "R. K. Narayan",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/51rnyExywAL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Nineteen Eighty-four",
+      "author": "J. R. R. Tolkien",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71IMhA+EuPL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Absalom, Absalom!",
+      "author": "Khushwant Singh",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71di3H8Co9L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Mrs Dalloway",
+      "author": "Charlotte Brontë",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61Uyn2rtyIL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Sun Also Rises",
+      "author": "Virginia Woolf",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Comic" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/81VPd9QxDnL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91BTZdo8jIL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91IfT1wUmCL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91vlODFhoIL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91ehKFyqBgL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Cooking" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/91nKU9mAIFL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61zNifrn5xL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/A1rBD0a5PBL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/8146m0uCo7L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/51izVmXSLiL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Entertainment" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/71cbL9AgzbL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71O43lAVv0L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71Y5xJoOHAL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81RTnEeuO2L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71vhBIyU4tL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "HealthandFitness" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/81XRBGUOKdL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81udpZsMDDL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81Uw8oyU25L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81juU4ohosL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/711ceYNwR3L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "History" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/91C-4nRadaL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/811tKt3SbhL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/811SsMUssdL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71n46r22i7L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71XLjpTiWuL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Horror" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/717xNSE16+L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91tQgWThRxS._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91IfT1wUmCL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/91HM+tX1y9L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81LtvzedkLL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Kids" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/812a--nrhOL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/816-vOU+kVL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71Ay-0tyI9L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71UwxOfeLoL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81EzgooKxgL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Medical" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/71m6-Ik15aL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61rxRywZrXL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/713AVYXBBtL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71gdOIoJjqL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/41VmocQCdvL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Romance" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/61NptN95ShL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/819byNchK5L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71aY8c970bL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81lTmFpdsiL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71dX1U6ZoCL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ],
+  "Sports" : [
+    {
+      "img": "https://m.media-amazon.com/images/I/811LPpmuo+L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Catcher in the Rye",
+      "author": "Anita Nair",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71SqvF0AdnL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Shashi Tharoor",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71kJUreRMJL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "o the Lighthouse",
+      "author": "Robert McCrum",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71BP-rAlK2L._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "David Copperfield",
+      "author": "Sadhguru",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71ykOQBfKjL._AC_UY327_FMwebp_QL65_.jpg",
+      "title": "The Grapes of Wrath",
+      "author": "Thomas Hardy",
+      "desc":
+        "we wetw tw t gwe yh egrw wrhrwh erh berw hgw se rghws ghrs hgwsrhsw bs gh",
+      "rating": "4.5/5"
+    }
+  ]
+}

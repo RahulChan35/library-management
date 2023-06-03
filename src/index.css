@@ -1,0 +1,240 @@
+
+* {
+  font-family: sans-serif;
+}
+
+.loading{
+  margin-left: 600px;
+}
+
+.landing-page img {
+ width: 100%;
+ position: absolute;
+ height: 400px;
+}
+
+.landing-page div{
+  position: relative;
+  width: 400px;
+  height: 600px;
+  background-color: white;
+  left: 550px;
+  top: 55px;
+  text-align: center;
+  padding: 50px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.landing-page div img{
+  position: relative;
+  width: 200px;
+  height: 200px;
+  top: 50px;
+}
+
+/* SignUP.css */
+
+.form-container{
+  display: flex;
+  justify-content: space-around;
+  width: 700px;
+  height: 600px;
+  margin-top: 50px;
+  margin-left: 300px;
+box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.form-container img {
+  width: 400px;
+  height: 600px;
+}
+
+.form{
+  margin-top: 30px;
+}
+
+form input{
+  height: 40px;
+  width: 250px;
+  padding: 12px 10px;
+  margin-left: 30px;
+  border: none;
+    border-bottom: 1px solid black;
+    outline: 0;
+}
+
+form label {
+  margin-top: 30px;
+  margin-left: 35px;
+}
+
+form input:active{
+  border: none;
+  outline: 0;
+    border-bottom: 2px solid black;
+}
+
+.btn {
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+.form .signup,.form .signin{
+  color: white;
+  text-decoration: none;
+}
+
+.form h3{
+  text-align: center;
+}
+
+.signup-underline{
+  width: 150px;
+  height: 2px;
+  background-color: black;
+  margin-left: 75px;
+}
+
+
+/* HEADER.css */
+
+.logo {
+  height: 60px;
+  width: 80px;
+}
+
+.alls {
+  margin-left: 800px;
+}
+
+.signup, .signin {
+  margin-right: 20px;
+}
+
+/* BODY.css */
+
+.allcategories{
+  margin-top: 20px;
+  margin-left: 550px;
+}
+
+.underline{
+  width: 300px;
+  height: 5px;
+  background-color: #008575;
+  margin-left: 500px;
+}
+
+ .card {
+  margin-top: 20px;
+  width: 290px;
+  height: 200;
+ }
+
+ .card-header{
+  color: white;
+  background-color: #008575;
+ }
+
+ .card-body li {
+  list-style: none;
+ }
+  .card-body a {
+    color: black;
+    text-decoration: none;
+  }
+
+ .card-footer {
+  background-color: #EFEFEF;
+ }
+
+ .card-footer a {
+  font-weight: 500;
+  text-decoration: none;
+ }
+
+ .card-body a:hover, .card-footer a:hover {
+  text-decoration: underline;
+ }
+
+/* INDIVIDUAL.css */
+.category-name, .arrow {
+  font-size: 30px;
+  color: #008575ED;
+  margin: 20px;
+}
+
+.arrow{
+  color: #008575;
+  width: 272px;
+    height: 0px;
+    left: 72px;
+    top: 113px;
+    border: 3px solid rgba(0, 133, 117, 0.93);
+    transform: rotate(-0.21deg);
+}
+
+.book {
+  display: flex;
+  justify-content: space-between;
+  width: 645px;
+  height: 280px;
+  margin-bottom: 30px;
+}
+
+.book .right {
+  margin-left: 20px;
+}
+
+.book img {
+  width: 179px;
+  height: 250px;
+}
+
+.book .right .title{
+  font-size: 25px;
+}
+
+.book .right .rating{
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.book .right .btn{
+  margin-top: 20px;
+}
+
+.book .left img:hover{
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+
+
+
+.text-filter{
+  margin-left: 500px;
+  padding-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.allbooks{
+  width: 500px;
+  margin: 50px;
+}
+
+
+
+
+
+/* FOOTER.css */
+
+.footer {
+  margin-top: 50px;
+  width: 1519px;
+  height: 100px;
+  background-color: #008575;
+  color: white;
+  padding-top: 15px;
+  text-align: center;
+}
